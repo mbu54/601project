@@ -1,5 +1,10 @@
 # 601project
 
+### Ideas for Project
+###### Quantum Watermarking with Quantum Encrypter
+###### Coded Aperatures
+###### Speech Processing
+
 ### Product Analysis
 ##### Product Review
 ##### Competetors
