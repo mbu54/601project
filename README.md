@@ -14,6 +14,7 @@
 ##### User Story
 ##### Customers
 ##### Minimum Value Product (MVP)
+Functioning coded aperture imaging system
 
 ### System Design
 
