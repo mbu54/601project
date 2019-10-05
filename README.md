@@ -14,7 +14,7 @@
 ##### User Story
 ##### Customers
 ##### Minimum Value Product (MVP)
-Simulated coded aperture imaging system
+Unique Simulated coded aperture imaging system
 
 ### System Design
 
