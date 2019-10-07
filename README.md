@@ -1,4 +1,4 @@
-# Coded Aperture Design
+# ec601 Final Project: Coded Aperture Imaging System
 
 ## Product Analysis
 
