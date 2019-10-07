@@ -32,6 +32,8 @@ I, the developer, want an adaptable coded aperture to save time developing my ow
 
 ### Customers
 
+Our target audeinces are photographers and researchers involved in both focusing and imaging.
+
 ### Minimum Value Product (MVP)
 
 MVP: Design a unique coded aperture imaging system that can be tested in a simulated environment.
