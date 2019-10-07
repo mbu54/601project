@@ -32,13 +32,17 @@ Our goal is to create a unique coded aperture imaging system that will ideally b
   MVP: Design a unique coded aperture imaging system that can be tested in a simulated environment.
 
 
-## System Design
 
 ## Product Analysis
 
   ### Product Review
 
   ### Competetors
+  - UT-Battelle LLC (CA Imaging System): can image on the order of microns
+  - Qinetiq Ltd (CA Imaging System): allows imaging of different fields of view, coded mask is reconfigurable
+  - Huang et. al. (CA X-Ray Imaging System): can analyze enveloped material, limited to x-ray
 
   ### Patent Analysis
+  
+## System Design
 
