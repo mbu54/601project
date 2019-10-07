@@ -25,7 +25,7 @@ Our goal is to create a unique coded aperture imaging system that will ideally b
 
   ### Customers
 
-  Our target audeinces are photographers and researchers involved in both focusing and imaging.
+  Our target audeiences are photographers and researchers involved in both focusing and imaging.
 
   ### Minimum Value Product (MVP)
 
