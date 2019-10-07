@@ -28,7 +28,7 @@ I, the astronaut, want to be able to capture images in space without a lens.
 
 I, the researcher, want a developed aperture that is adaptable to use in my imaging device.
 
-I, the developer, want an adaptable coded aperture to save time developing my own for my product.
+I, the developer, want an adaptable coded aperture to save time developing my own product.
 
 ### Customers
 
