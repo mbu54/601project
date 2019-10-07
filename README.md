@@ -1,12 +1,5 @@
 # ec601 Final Project: Coded Aperture Imaging System
 
-## Product Analysis
-
-### Product Review
-
-### Competetors
-
-### Patent Analysis
  
 ## Product Mission
 
@@ -39,4 +32,13 @@ Our target audeinces are photographers and researchers involved in both focusing
 MVP: Design a unique coded aperture imaging system that can be tested in a simulated environment.
 
 ## System Design
+
+
+## Product Analysis
+
+### Product Review
+
+### Competetors
+
+### Patent Analysis
 
