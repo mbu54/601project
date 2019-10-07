@@ -2,7 +2,7 @@
 
  
 ## Product Mission
-Our goal is to create a unique coded aperture imaging system that will ideally be versatile engough that it can be used in many different applications as expressed through our user stories. Time permitting we will build a physical setup for the coded aperture system and extra time permitting we would like to build an entire application system (e.g. camera or telescope) 
+Our goal is to create a unique coded aperture imaging system that will ideally be versatile enough that it can be used in many different applications. Time permitting, we will build a physical setup for the coded aperture system, and extra time permitting we would like to build an entire system of which our coded aperture would be just one part (e.g. camera or telescope). 
   ### User Stories
 
   I, the astronomer, want to be able to view images with a lensless telescope.
