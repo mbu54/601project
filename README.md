@@ -2,15 +2,15 @@
 
 ## Product Analysis
 
-#### Product Review
+### Product Review
 
-#### Competetors
+### Competetors
 
-#### Patent Analysis
+### Patent Analysis
  
 ## Product Mission
 
-#### User Story
+### User Story
 
 I, the astronomer, want to be able to view images with a lensless telescope.
 I, the physician, want to be able to perform x-ray scans without lenses.
@@ -22,9 +22,9 @@ I, the astronaut, want to be able to capture images in space without a lens.
 I, the researcher, want a developed aperture that is adaptable to use in my imaging device.
 I, the developer, want an adaptable coded aperture to save time developing my own for my product.
 
-#### Customers
+### Customers
 
-#### Minimum Value Product (MVP)
+### Minimum Value Product (MVP)
 
 MVP: Design a unique coded aperture imaging system that can be tested in a simulated environment.
 
