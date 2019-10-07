@@ -37,7 +37,7 @@ Our goal is to create a unique coded aperture imaging system that will ideally b
 
   ### Product Review
 
-  ### Competetors
+  ### Competitors
   - UT-Battelle LLC (CA Imaging System): can image on the order of microns
   - Qinetiq Ltd (CA Imaging System): allows imaging of different fields of view, coded mask is reconfigurable
   - Huang et. al. (CA X-Ray Imaging System): can analyze enveloped material, limited to x-ray
