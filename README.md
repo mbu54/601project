@@ -36,7 +36,7 @@ Our goal is to develop a program that runs a coded aperture mask through various
 
   ### Minimum Value Product (MVP)
 
-  MVP: Design a unique coded aperture imaging system that can be tested in a simulated environment.
+  MVP: Design a simulation program that runs a coded aperture mask through various optical tests.
 
 
 
