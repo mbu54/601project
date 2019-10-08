@@ -67,4 +67,4 @@ Our goal is to develop a program that runs a coded aperture mask through various
 
   
 ## System Design
-
+![system diagram](https://github.com/mbu54/601project/blob/master/Screen%20Shot%202019-10-07%20at%208.48.14%20PM.png)
