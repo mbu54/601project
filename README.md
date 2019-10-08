@@ -42,14 +42,15 @@ Our goal is to develop a program that runs a coded aperture mask through various
 
 ## Product Analysis
 
-  ### Product Review
-
-  ### Competitors
+  ### Competitors (for coded aperture masks and applications)
   - UT-Battelle LLC (CA Imaging System): can image on the order of microns
   - Qinetiq Ltd (CA Imaging System): allows imaging of different fields of view, coded mask is reconfigurable
   - Huang et. al. (CA X-Ray Imaging System): can analyze enveloped material, limited to x-ray
+  
+  ### Competitors (for analysis program/database)
+  - Some PhD theses have discussed the issue and provided individual case studies
+  - Currently no existing database
 
-  ### Patent Analysis
   
 ## System Design
 
