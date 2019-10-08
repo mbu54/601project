@@ -50,6 +50,20 @@ Our goal is to develop a program that runs a coded aperture mask through various
   ### Competitors (for analysis program/database)
   - Some PhD theses have discussed the issue and provided individual case studies
   - Currently no existing database
+  
+  ### Issues to consider
+   - masks that allow different amounts of 
+   - different sized masks
+   - how we want to normalize the output of our tests
+   - what type of input file(s) is/are allowed
+   - be aware of limitations of our optical tests
+   - keep analysis code opensource so others can modify the optical tests to fit their needs
+   
+  ### Database Notes
+  We will not be focusing on the development of a database system in part due to time restraints as well as because a complex database is not necessary for what we want it to do (listed below).
+   - Public use (open source)
+   - Searchable
+   - Low memory intensive
 
   
 ## System Design
