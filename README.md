@@ -65,5 +65,11 @@ Our goal is to develop a program that runs a coded aperture mask through various
 ## System Design
 ![system diagram](https://github.com/mbu54/601project/blob/master/Screen%20Shot%202019-10-07%20at%208.48.14%20PM.png)
 
+ ### Mathematical concept
+ - An image is resolved through the convolution of an object sending rays of light through the coded aperture
+  - The object is called the Point Source (x,y), a two-dimensional figure which is converted to a digital signal
+  - The coded aperture is represented as an impulse response function, or Point Spread Function (PSF)
+ - Both the point source and PSF are convolved together to create the image that is seen through the coded aperture
+
 
 
