@@ -1,10 +1,17 @@
 # Here is were we attempt to create a far-field test for CAs
 
 import numpy as np
-import scipy
 
 ''' Currently working on setting up code for transforming
 signals. This code will only have tests for far field. '''
+
+''' Importing our object as an array
+We will need to create a file (farfieldimage) that
+holds the array that represents the image for the far-field
+test'''
+
+np.load(farfieldimage.npy)
+N = size(farfieldimage.npy, 1)
 
 # We begin with establishing the Fourier Transform functions
 
@@ -21,7 +28,11 @@ PSF = np.zeros(N, N)
 
 # Creating the impulse response
 
-H_omega = F()
+H_omega = F(PSF)
+
+# Generating the image signal
+
+img_sig = Ft(F(farfieldimage.npy) * H)
 
 ''' This code is currently under major edits. It is likely
 that the FTs and setups will be established as a separate
