@@ -1,4 +1,4 @@
-# ec601 Final Project: Coded Aperture Imaging System
+# EC601 Final Project: Coded Aperture Imaging System
 
  
 ## Product Mission
