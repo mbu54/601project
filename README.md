@@ -72,5 +72,7 @@ Our goal is to develop a program that runs a coded aperture mask through various
  - Both the point source and PSF are convolved together to create the signal of image that is seen through the coded aperture
  - To see the final image, the image signal is deconvolved, leaving behind a time-domain representation of the object
 
-
+## Notes and Updates
+- 10/13/19: Finished Goggle Sheets API assembly
+- 10/27/19: Added to system design section, added folder for aperture tests
 
