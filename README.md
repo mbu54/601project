@@ -75,4 +75,4 @@ Our goal is to develop a program that runs a coded aperture mask through various
 ## Notes and Updates
 - 10/13/19: Finished Goggle Sheets API assembly
 - 10/27/19: Added to system design section, added folder for aperture tests
-
+- 10/29/19: Finished pinhole control test; finalizing far-field test
