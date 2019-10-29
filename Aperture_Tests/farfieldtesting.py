@@ -19,28 +19,15 @@ N = np.size(obj, 1)
 F = lambda x: np.fft.fftshift(np.fft.fft2(np.fft.ifftshift(x)))
 Ft = lambda x: np.fft.fftshift(np.fft.ifft2(np.fft.ifftshift(x)))
 
-# Next we pull the CA
+# Next we pull the CA, where the name if the file is the aperture received
 
 CA = np.load('randomCM.npy')
 
-'''
-
-Testing against a pinhole
-
-PSF = np.zeros((100,100))
-PSF[49][49] = 1
-
-'''
-
 # Generating the image signal
 
-img_sig = Ft(F(obj) * F(CA))
+img_sig = Ft(F(obj) * F(PSF))
 
 img = F(img_sig)
 
-plt.imshow(abs(img_sig))
+plt.imshow(abs(img))
 plt.show()
-
-''' This code is currently under major edits. It is likely
-that the FTs and setups will be established as a separate
-code that the tests call upon.'''
