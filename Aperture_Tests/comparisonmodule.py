@@ -7,9 +7,8 @@ import matplotlib.pyplot as plt
 orig = np.load('farfieldimage.npy')
 recon = np.load('reconstructedimage.npy')
 
-#error = lambda x,x0: (x-x0)**2
+err = lambda x,x0: np.sum(abs((x-x0)**2))
 
-#er = error(orig,recon)
+er = err(orig,orig)
 
-plt.imshow(orig)
-plt.show()
+print(er)
