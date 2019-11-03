@@ -78,10 +78,10 @@ Our goal is to develop a program that runs a coded aperture mask through various
 ## Demos
 
  ### Far-Field Testing with a Randomly Generated CA
- <p align="middle"><figure>
+ <div class="figure">
     <img src="https://github.com/mbu54/601project/blob/master/Aperture_Tests/originalimage.png" alt="sometext" />
-    <figcaption>Original image</figcaption>
-</figure></p>
+    <p>Original image</p>
+</div>
 
 ## Notes and Updates
 - 10/13/19: Finished Goggle Sheets API assembly
