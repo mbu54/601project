@@ -1,4 +1,5 @@
 # EC601 Final Project: Coded Aperture Imaging System
+<img src="https://github.com/mbu54/601project/blob/master/Coded_aperture_mask_(for_gamma_camera).jpg">
 
  
 ## Product Mission
@@ -71,8 +72,12 @@ Our goal is to develop a program that runs a coded aperture mask through various
    - The coded aperture is represented as an impulse response function, or Point Spread Function (PSF)
  - Both the point source and PSF are convolved together to create the signal of image that is seen through the coded aperture
  - To see the final image, the image signal is deconvolved, leaving behind a time-domain representation of the object
+ 
+ ### Concerns
+ - While the far-field test is fairly straight-forward, the near-field test has the difficulty of dealing with angled rays instead of using paraxial approximations, making the approach to applying the near-field test more challenging than we first imagined.
 
 ## Notes and Updates
 - 10/13/19: Finished Goggle Sheets API assembly
 - 10/27/19: Added to system design section, added folder for aperture tests
 - 10/29/19: Finished pinhole control test; finalizing far-field test
+- 11/2/19: Added comparison module for original versus reconstructed image
