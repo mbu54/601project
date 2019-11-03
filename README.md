@@ -82,7 +82,7 @@ Our goal is to develop a program that runs a coded aperture mask through various
  
 ## User Guide
 
- ###(Coming soon)
+ ### (Coming soon)
 
 ## Notes and Updates
 - 10/13/19: Finished Goggle Sheets API assembly
