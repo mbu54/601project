@@ -75,6 +75,10 @@ Our goal is to develop a program that runs a coded aperture mask through various
  ### Concerns
  - While the far-field test is fairly straight-forward, the near-field test has the difficulty of dealing with angled rays instead of using paraxial approximations, making the approach to applying the near-field test more challenging than we first imagined.
 
+## Demos
+
+ ### Far-Field Testing with a Randomly Generated CA
+
 ## Notes and Updates
 - 10/13/19: Finished Goggle Sheets API assembly
 - 10/27/19: Added to system design section, added folder for aperture tests
