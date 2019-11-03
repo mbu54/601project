@@ -1,5 +1,5 @@
 # EC601 Final Project: Coded Aperture Imaging System
-![aperture](https://github.com/mbu54/601project/blob/master/Coded_aperture_mask_(for_gamma_camera).jpg)
+<img src="https://github.com/mbu54/601project/blob/master/Coded_aperture_mask_(for_gamma_camera).jpg>
  
 ## Product Mission
 Our goal is to develop a program that runs a coded aperture mask through various simulated optical tests and outputs the results of these tests to help the user determine in which applications the mask would perform optimally. Additionally, these results will be saved to a simple database that allows the user to search through. Time permitting, we will build a physical setup for the coded aperture system, and extra time permitting we would like to build an entire system of which our coded aperture would be just one part (e.g. camera or telescope). 
