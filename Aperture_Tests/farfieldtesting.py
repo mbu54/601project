@@ -48,7 +48,7 @@ np.save("reconstructedimage.npy",f_tk)
 #plt.imshow(abs(f_tk)
 
 #plt.show()
-'''
+
 fig, ax = plt.subplots(1,3)
 
 ax[0].imshow(obj)
@@ -56,4 +56,3 @@ ax[1].imshow(CA)
 ax[2].imshow(abs(f_tk))
 
 plt.show()
-'''

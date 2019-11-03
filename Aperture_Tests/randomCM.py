@@ -15,7 +15,7 @@ mask = np.zeros((maskWidth,maskWidth))
 for i in range(0,maskWidth,boxWidth):
   for j in range(0,maskWidth,boxWidth):
     rand = random.random()
-    if rand >= 0.5:
+    if rand >= 0.98:
       for k in range(boxWidth):
         for l in range(boxWidth):
           mask[i+k][j+l] = 1
