@@ -91,3 +91,4 @@ Our goal is to develop a program that runs a coded aperture mask through various
 - 10/29/19: Finished pinhole control test; finalizing far-field test
 - 11/2/19: Added comparison module for original versus reconstructed image; finalized far-field test
 - 11/3/19: Included images for far-field test in repo
+- 11/4/19: Set up "Main" folder for one-stop access to utilize code
