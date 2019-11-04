@@ -60,7 +60,6 @@ Our goal is to develop a program that runs a coded aperture mask through various
    - Public use (open source)
    - Searchable
    - Low memory intensive
-
   
 ## System Design
 ![system diagram](https://github.com/mbu54/601project/blob/master/Screen%20Shot%202019-10-07%20at%208.48.14%20PM.png)
@@ -84,6 +83,10 @@ Our goal is to develop a program that runs a coded aperture mask through various
 ## User Guide
 
  ### (Coming soon)
+ 
+## Links and References
+
+- <a href="https://drive.google.com/drive/folders/1znG365a-_0aR97n4F3Bvw1yOBPKbYH1N?usp=sharing">Sprint Presentations</a>
 
 ## Notes and Updates
 - 10/13/19: Finished Goggle Sheets API assembly
