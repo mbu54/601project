@@ -86,7 +86,7 @@ Our goal is to develop a program that runs a coded aperture mask through various
  
 ## Links and References
 
-- <a href="https://drive.google.com/drive/folders/1znG365a-_0aR97n4F3Bvw1yOBPKbYH1N?usp=sharing">Sprint Presentations</a>
+<a href="https://drive.google.com/drive/folders/1znG365a-_0aR97n4F3Bvw1yOBPKbYH1N?usp=sharing">Sprint Presentations</a>
 
 ## Notes and Updates
 - 10/13/19: Finished Goggle Sheets API assembly
