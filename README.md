@@ -74,6 +74,7 @@ Our goal is to develop a program that runs a coded aperture mask through various
  
  ### Concerns
  - While the far-field test is fairly straight-forward, the near-field test has the difficulty of dealing with angled rays instead of using paraxial approximations, making the approach to applying the near-field test more challenging than we first imagined.
+ - We realized in our analysis of the far-field test that without the inclusion of background noise, our analysis of the apertures may not be as effective as can be. We will be using part of sprint 3 to look at how to include noise without getting too overwhelmed.
 
 ## Demos
 
