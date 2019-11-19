@@ -48,12 +48,12 @@ Our goal is to develop a program that runs a coded aperture mask through various
     - lots of math libraries (numpy, scipy) for image processng
   
   ### Issues to consider
-   - masks that allow different amounts of 
-   - different sized masks
-   - how we want to normalize the output of our tests
-   - what type of input file(s) is/are allowed
-   - be aware of limitations of our optical tests
-   - keep analysis code opensource so others can modify the optical tests to fit their needs
+   - Masks that allow different amounts of light
+   - Different sized masks
+   - How we want to normalize the output of our tests
+   - What type of input file(s) is/are allowed
+   - Be aware of limitations of our optical tests
+   - Keep analysis code opensource so others can modify the optical tests to fit their needs
    
   ### Database Notes
   We will not be focusing on the development of a database system in part due to time restraints as well as because a complex database is not necessary for what we want it to do (listed below).
@@ -74,6 +74,9 @@ Our goal is to develop a program that runs a coded aperture mask through various
  ### Concerns
  - While the far-field test is fairly straight-forward, the near-field test has the difficulty of dealing with angled rays instead of using paraxial approximations, making the approach to applying the near-field test more challenging than we first imagined.
  - We realized in our analysis of the far-field test that without the inclusion of background noise, our analysis of the apertures may not be as effective as can be. We will be using part of sprint 3 to look at how to include noise without getting too overwhelmed.
+ 
+ ### New Aprroaches
+ - Instead of making a 'near-field' test and engaging with the deformities that come from analyzing on a scale relative to the wavelength, we adapt a 'mid-field' test, which can still be on a microscopic scale relatively, but still be on a scale much larger than the wavelength of the input light.
 
 ## Demos
 
@@ -96,3 +99,4 @@ Our goal is to develop a program that runs a coded aperture mask through various
 - 11/3/19: Included images for far-field test in repo
 - 11/4/19: Set up "Main" folder for one-stop access to utilize code
 - 11/11/19: Currently working on formalizing the near-field test; needs understanding to set up wave propagation equation
+- 11/19/19: Changing near-field test to 'mid-field' test, making approximations for the wavelength of the input light
