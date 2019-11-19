@@ -83,6 +83,8 @@ Our goal is to develop a program that runs a coded aperture mask through various
  ### Far-Field Testing with a Randomly Generated CA
  <p align="middle"><img src="https://github.com/mbu54/601project/blob/master/Aperture_Tests/farfielddemo.png"></p>
  
+ ### Mid-Field Testing with a Randomly Generated CA
+ 
 ## User Guide
 
  ### (Coming soon)
