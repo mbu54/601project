@@ -46,6 +46,9 @@ Our goal is to develop a program that runs a coded aperture mask through various
   - Use python as programming languague
     - open source language that anyone can use to run our open source code (as oppose to Matlab)
     - lots of math libraries (numpy, scipy) for image processng
+  - Using Flask to develop the site for inputting data
+    - prevents users from adjusting the code, ruining data, etc.
+    - should be more user-friendly
   
   ### Issues to consider
    - Masks that allow different amounts of light
@@ -77,6 +80,7 @@ Our goal is to develop a program that runs a coded aperture mask through various
  
  ### New Approaches
  - Instead of making a 'near-field' test and engaging with the deformities that come from analyzing on a scale relative to the wavelength, we adapt a 'mid-field' test, which can still be on a microscopic scale relatively, but still be on a scale much larger than the wavelength of the input light.
+ - We have changed from using Wix as out site host to developing a basic site with Python's Flask library and implementing it live via Heroku.
 
 ## Demos
 
@@ -103,3 +107,4 @@ Our goal is to develop a program that runs a coded aperture mask through various
 - 11/11/19: Currently working on formalizing the near-field test; needs understanding to set up wave propagation equation
 - 11/19/19: Changing near-field test to 'mid-field' test, making approximations for the wavelength of the input light
 - 11/20/19: Updated Apeture Tests to include mid-field test
+- 12/2/19: Finalized inclusion of noise for both tests, revamped method of site design (Flask)
