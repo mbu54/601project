@@ -91,7 +91,10 @@ Our goal is to develop a program that runs a coded aperture mask through various
  
 ## User Guide
 
- ### (Coming soon)
+ ### What you will need:
+ - A coded aperture saved as a .npy file.
+   - Size of the aperture should be 100x100 pixels
+ - 
  
 ## Links and References
 
