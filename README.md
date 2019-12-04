@@ -92,9 +92,15 @@ Our goal is to develop a program that runs a coded aperture mask through various
 ## User Guide
 
  ### What you will need:
- - A coded aperture saved as a .npy file.
+ - A coded aperture saved as a .npy file
    - Size of the aperture should be 100x100 pixels
- - 
+ - Access to site link (coming soon)
+ 
+ ### Steps
+ 1. Head to our website, input your information, and upload your aperture file
+ 2. Our program will analyze the aperture in the mid and far-field, then calculate its error with respect to the original image
+ 3. The program will return the error, smaller values indicating a more accurate aperture
+ 4. The program will also give you a link to access our drive containing all pervious apertures and the scores for each one
  
 ## Links and References
 
@@ -111,3 +117,4 @@ Our goal is to develop a program that runs a coded aperture mask through various
 - 11/19/19: Changing near-field test to 'mid-field' test, making approximations for the wavelength of the input light
 - 11/20/19: Updated Apeture Tests to include mid-field test
 - 12/2/19: Finalized inclusion of noise for both tests, revamped method of site design (Flask)
+- 12/4/19: Finishing up assembly of website, figured out how to upload files
