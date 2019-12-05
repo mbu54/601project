@@ -49,6 +49,7 @@ Our goal is to develop a program that runs a coded aperture mask through various
   - Using Flask to develop the site for inputting data
     - prevents users from adjusting the code, ruining data, etc.
     - should be more user-friendly
+  - Hosting our site with Heroku
   
   ### Issues to consider
    - Masks that allow different amounts of light
@@ -117,4 +118,4 @@ Our goal is to develop a program that runs a coded aperture mask through various
 - 11/19/19: Changing near-field test to 'mid-field' test, making approximations for the wavelength of the input light
 - 11/20/19: Updated Apeture Tests to include mid-field test
 - 12/2/19: Finalized inclusion of noise for both tests, revamped method of site design (Flask)
-- 12/4/19: Finishing up assembly of website, figured out how to upload files
+- 12/4/19: Finishing up assembly of website, figured out how to upload files, parts are all linked on back end
