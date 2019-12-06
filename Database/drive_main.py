@@ -112,16 +112,19 @@ def searchFile(size,query):
             print(item)
             print('{0} ({1})'.format(item['name'], item['id']))
             
-            
-#uploadFile('unnamed.jpg','unnamed.jpg','image/jpeg')
-#downloadFile('1Knxs5kRAMnoH5fivGeNsdrj_SIgLiqzV','google.jpg')
-#createFolder('Google')
+uploadFileFolder('randomCM.npy','randomCM.npy','application/octet-stream')
+
+
+#downloadFile('1Bt1nEHh_NJ7ALc3LocihonUavGiU4sI6', 'random')
             
 main.main_test('randomCM.npy')
 eff,emf = main.main_test('randomCM.npy')
 
+img_array = np.load('randomCM.npy')
+plt.imshow(img_array, cmap='gray')
+plt.savefig('test.png')
+
 uploadFileFolder('test.png','test.png','image/png')
+
 insertRow=['Aperture Name', 'Name', 'Association', eff, emf]
 sheet.insert_row(insertRow,4)
-
-'''need to return values to elise'''
