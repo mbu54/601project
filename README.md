@@ -85,10 +85,11 @@ Our goal is to develop a program that runs a coded aperture mask through various
 
 ## Demos
 
- ### Far-Field Testing with a Randomly Generated CA
- <p align="middle"><img src="https://github.com/mbu54/601project/blob/master/Aperture_Tests/farfielddemo.png"></p>
+ ### Far-Field Testing with a Increasing Tikhonov Regularization Coefficients and Random CA
+ <p align="middle"><img src="https://github.com/mbu54/601project/blob/master/Aperture_Tests/farfield.png"></p>
  
- ### Mid-Field Testing with a Randomly Generated CA
+ ### Mid-Field Testing with a Increasing Tikhonov Regularization Coefficients and Random CA
+ <p align="middle"><img src="https://github.com/mbu54/601project/blob/master/Aperture_Tests/midfield.png"></p>
  
 ## User Guide
 
