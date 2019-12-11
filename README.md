@@ -119,3 +119,4 @@ Our goal is to develop a program that runs a coded aperture mask through various
 - 11/20/19: Updated Apeture Tests to include mid-field test
 - 12/2/19: Finalized inclusion of noise for both tests, revamped method of site design (Flask)
 - 12/4/19: Finishing up assembly of website, figured out how to upload files, parts are all linked on back end
+- 12/10/19: Finished integration of front end and back end
